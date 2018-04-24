@@ -1,0 +1,79 @@
+# depslib dependency file v1.0
+1506570707 source:e:\universties\habib university\semesters\fall 2017\object oriented programming\assignments\assignment 02\emadbinabid02893\floor.cpp
+	"Floor.h"
+
+1506570704 e:\universties\habib university\semesters\fall 2017\object oriented programming\assignments\assignment 02\emadbinabid02893\floor.h
+	"Room.h"
+
+1506612484 e:\universties\habib university\semesters\fall 2017\object oriented programming\assignments\assignment 02\emadbinabid02893\room.h
+	<iostream>
+	<stdlib.h>
+	<stdio.h>
+	<string>
+	<fstream>
+	<cstring>
+	"Refrigerator.h"
+	"People.h"
+	"DateTime.h"
+	"GlobalFunctions.h"
+
+1506619550 e:\universties\habib university\semesters\fall 2017\object oriented programming\assignments\assignment 02\emadbinabid02893\refrigerator.h
+	<iostream>
+	<stdlib.h>
+	"Drink.h"
+
+1505854352 e:\universties\habib university\semesters\fall 2017\object oriented programming\assignments\assignment 02\emadbinabid02893\drink.h
+
+1506025368 e:\universties\habib university\semesters\fall 2017\object oriented programming\assignments\assignment 02\emadbinabid02893\people.h
+	<iostream>
+
+1506184873 source:e:\universties\habib university\semesters\fall 2017\object oriented programming\assignments\assignment 02\emadbinabid02893\people.cpp
+	"People.h"
+
+1506620997 source:e:\universties\habib university\semesters\fall 2017\object oriented programming\assignments\assignment 02\emadbinabid02893\refrigerator.cpp
+	"Refrigerator.h"
+
+1506617238 source:e:\universties\habib university\semesters\fall 2017\object oriented programming\assignments\assignment 02\emadbinabid02893\room.cpp
+	"Room.h"
+
+1506623721 source:e:\universties\habib university\semesters\fall 2017\object oriented programming\assignments\assignment 02\emadbinabid02893\main.cpp
+	<time.h>
+	<iostream>
+	<stdlib.h>
+	<stdio.h>
+	<fstream>
+	<cstring>
+	<sstream>
+	<typeinfo>
+	<conio.h>
+	"Refrigerator.h"
+	"Room.h"
+	"Floor.h"
+	"People.h"
+	"DateTime.h"
+	"GlobalFunctions.h"
+
+1506570833 e:\universties\habib university\semesters\fall 2017\object oriented programming\assignments\assignment 02\emadbinabid02893\globalfunctions.h
+	<string>
+	<iostream>
+	<sstream>
+	<time.h>
+	<stdlib.h>
+	<stdio.h>
+	<windows.h>
+	<fstream>
+
+1506570887 source:e:\universties\habib university\semesters\fall 2017\object oriented programming\assignments\assignment 02\emadbinabid02893\globalfunctions.cpp
+	"GlobalFunctions.h"
+
+1506617266 source:e:\universties\habib university\semesters\fall 2017\object oriented programming\assignments\assignment 02\emadbinabid02893\datetime.cpp
+	"DateTime.h"
+
+1506570300 e:\universties\habib university\semesters\fall 2017\object oriented programming\assignments\assignment 02\emadbinabid02893\datetime.h
+	<string>
+	<iostream>
+	<sstream>
+	<time.h>
+	<stdlib.h>
+	<stdio.h>
+

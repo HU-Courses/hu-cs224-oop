@@ -1,0 +1,405 @@
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+PEARL CONTINENTAL HOTEL RECORD
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+- DAY: 1
+- DAY: 2
+!!~CHECK-IN~!!
+	~Room Information: 
+		-Room No.: 	 202
+		-Occupancy: 	 2
+		-Base Charges: 	 4000
+		-No. of People:  2
+!!~CHECK-IN~!!
+	~Room Information: 
+		-Room No.: 	 104
+		-Occupancy: 	 4
+		-Base Charges: 	 7000
+		-No. of People:  4
+		-Drinks Information: 
+			-Drinks Consumed: 3
+			-Drinks Remaining: 7
+		-Drinks Information: 
+			-Drinks Consumed: 3
+			-Drinks Remaining: 8
+- DAY: 3
+		-Drinks Information: 
+			-Drinks Consumed: 6
+			-Drinks Remaining: 5
+		-Drinks Information: 
+			-Drinks Consumed: 6
+			-Drinks Remaining: 6
+- DAY: 4
+		-Drinks Information: 
+			-Drinks Consumed: 7
+			-Drinks Remaining: 4
+!!~CHECK-OUT~!!
+	~Room Information: 
+		-Room No.: 	 202
+		-Occupancy: 	 2
+		-Stay Duration: 2
+		-Base Charges: 	 4000
+		-Total Charges: 8000
+		-No. of People:  2
+- DAY: 5
+!!~CHECK-IN~!!
+	~Room Information: 
+		-Room No.: 	 102
+		-Occupancy: 	 3
+		-Base Charges: 	 5500
+		-No. of People:  3
+		-Drinks Information: 
+			-Drinks Consumed: 3
+			-Drinks Remaining: 7
+		-Drinks Information: 
+			-Drinks Consumed: 10
+			-Drinks Remaining: 2
+			-Drinks Replenished...
+!!~CHECK-IN~!!
+	~Room Information: 
+		-Room No.: 	 106
+		-Occupancy: 	 4
+		-Base Charges: 	 7000
+		-No. of People:  4
+		-Drinks Information: 
+			-Drinks Consumed: 4
+			-Drinks Remaining: 6
+		-Drinks Information: 
+			-Drinks Consumed: 12
+			-Drinks Remaining: 9
+		-Drinks Information: 
+			-Drinks Consumed: 1
+			-Drinks Remaining: 9
+!!~CHECK-IN~!!
+	~Room Information: 
+		-Room No.: 	 202
+		-Occupancy: 	 2
+		-Base Charges: 	 4000
+		-No. of People:  2
+		-Drinks Information: 
+			-Drinks Consumed: 7
+			-Drinks Remaining: 5
+		-Drinks Information: 
+			-Drinks Consumed: 15
+			-Drinks Remaining: 6
+		-Drinks Information: 
+			-Drinks Consumed: 4
+			-Drinks Remaining: 6
+		-Drinks Information: 
+			-Drinks Consumed: 7
+			-Drinks Remaining: 6
+!!~CHECK-IN~!!
+	~Room Information: 
+		-Room No.: 	 207
+		-Occupancy: 	 2
+		-Base Charges: 	 4000
+		-No. of People:  2
+		-Drinks Information: 
+			-Drinks Consumed: 8
+			-Drinks Remaining: 4
+!!~CHECK-IN~!!
+	~Room Information: 
+		-Room No.: 	 103
+		-Occupancy: 	 3
+		-Base Charges: 	 5500
+		-No. of People:  3
+		-Drinks Information: 
+			-Drinks Consumed: 10
+			-Drinks Remaining: 3
+		-Drinks Information: 
+			-Drinks Consumed: 2
+			-Drinks Remaining: 8
+		-Drinks Information: 
+			-Drinks Consumed: 18
+			-Drinks Remaining: 4
+		-Drinks Information: 
+			-Drinks Consumed: 7
+			-Drinks Remaining: 3
+!!~CHECK-IN~!!
+	~Room Information: 
+		-Room No.: 	 107
+		-Occupancy: 	 4
+		-Base Charges: 	 7000
+		-No. of People:  4
+		-Drinks Information: 
+			-Drinks Consumed: 12
+			-Drinks Remaining: 2
+			-Drinks Replenished...
+		-Drinks Information: 
+			-Drinks Consumed: 4
+			-Drinks Remaining: 6
+		-Drinks Information: 
+			-Drinks Consumed: 21
+			-Drinks Remaining: 3
+		-Drinks Information: 
+			-Drinks Consumed: 10
+			-Drinks Remaining: 2
+			-Drinks Replenished...
+		-Drinks Information: 
+			-Drinks Consumed: 3
+			-Drinks Remaining: 7
+!!~CHECK-IN~!!
+	~Room Information: 
+		-Room No.: 	 110
+		-Occupancy: 	 3
+		-Base Charges: 	 5500
+		-No. of People:  3
+		-Drinks Information: 
+			-Drinks Consumed: 15
+			-Drinks Remaining: 7
+		-Drinks Information: 
+			-Drinks Consumed: 6
+			-Drinks Remaining: 5
+		-Drinks Information: 
+			-Drinks Consumed: 22
+			-Drinks Remaining: 2
+			-Drinks Replenished...
+		-Drinks Information: 
+			-Drinks Consumed: 12
+			-Drinks Remaining: 8
+		-Drinks Information: 
+			-Drinks Consumed: 4
+			-Drinks Remaining: 6
+		-Drinks Information: 
+			-Drinks Consumed: 3
+			-Drinks Remaining: 8
+		-Drinks Information: 
+			-Drinks Consumed: 8
+			-Drinks Remaining: 6
+		-Drinks Information: 
+			-Drinks Consumed: 1
+			-Drinks Remaining: 9
+!!~CHECK-IN~!!
+	~Room Information: 
+		-Room No.: 	 209
+		-Occupancy: 	 2
+		-Base Charges: 	 4000
+		-No. of People:  2
+		-Drinks Information: 
+			-Drinks Consumed: 18
+			-Drinks Remaining: 5
+		-Drinks Information: 
+			-Drinks Consumed: 8
+			-Drinks Remaining: 4
+		-Drinks Information: 
+			-Drinks Consumed: 25
+			-Drinks Remaining: 7
+		-Drinks Information: 
+			-Drinks Consumed: 13
+			-Drinks Remaining: 7
+		-Drinks Information: 
+			-Drinks Consumed: 6
+			-Drinks Remaining: 4
+		-Drinks Information: 
+			-Drinks Consumed: 5
+			-Drinks Remaining: 6
+		-Drinks Information: 
+			-Drinks Consumed: 10
+			-Drinks Remaining: 4
+!!~CHECK-IN~!!
+	~Room Information: 
+		-Room No.: 	 204
+		-Occupancy: 	 3
+		-Base Charges: 	 5500
+		-No. of People:  3
+		-Drinks Information: 
+			-Drinks Consumed: 20
+			-Drinks Remaining: 4
+		-Drinks Information: 
+			-Drinks Consumed: 10
+			-Drinks Remaining: 4
+		-Drinks Information: 
+			-Drinks Consumed: 27
+			-Drinks Remaining: 6
+		-Drinks Information: 
+			-Drinks Consumed: 15
+			-Drinks Remaining: 5
+		-Drinks Information: 
+			-Drinks Consumed: 7
+			-Drinks Remaining: 4
+		-Drinks Information: 
+			-Drinks Consumed: 8
+			-Drinks Remaining: 4
+		-Drinks Information: 
+			-Drinks Consumed: 13
+			-Drinks Remaining: 2
+			-Drinks Replenished...
+		-Drinks Information: 
+			-Drinks Consumed: 2
+			-Drinks Remaining: 8
+		-Drinks Information: 
+			-Drinks Consumed: 3
+			-Drinks Remaining: 8
+		-Drinks Information: 
+			-Drinks Consumed: 1
+			-Drinks Remaining: 9
+- DAY: 6
+!!~CHECK-OUT~!!
+	~Room Information: 
+		-Room No.: 	 102
+		-Occupancy: 	 3
+		-Stay Duration: 1
+		-Base Charges: 	 5500
+		-Total Charges: 5500
+		-No. of People:  3
+		-Drinks Information: 
+			-Drinks Consumed: 11
+			-Drinks Remaining: 4
+		-Drinks Information: 
+			-Drinks Consumed: 30
+			-Drinks Remaining: 5
+!!~CHECK-OUT~!!
+	~Room Information: 
+		-Room No.: 	 106
+		-Occupancy: 	 4
+		-Stay Duration: 1
+		-Base Charges: 	 7000
+		-Total Charges: 7000
+		-No. of People:  4
+		-Drinks Information: 
+			-Drinks Consumed: 9
+			-Drinks Remaining: 4
+		-Drinks Information: 
+			-Drinks Consumed: 10
+			-Drinks Remaining: 4
+		-Drinks Information: 
+			-Drinks Consumed: 16
+			-Drinks Remaining: 7
+		-Drinks Information: 
+			-Drinks Consumed: 3
+			-Drinks Remaining: 7
+		-Drinks Information: 
+			-Drinks Consumed: 4
+			-Drinks Remaining: 8
+		-Drinks Information: 
+			-Drinks Consumed: 4
+			-Drinks Remaining: 6
+- DAY: 7
+		-Drinks Information: 
+			-Drinks Consumed: 14
+			-Drinks Remaining: 4
+!!~CHECK-OUT~!!
+	~Room Information: 
+		-Room No.: 	 104
+		-Occupancy: 	 4
+		-Stay Duration: 5
+		-Base Charges: 	 7000
+		-Total Charges: 35000
+		-No. of People:  4
+!!~CHECK-IN~!!
+	~Room Information: 
+		-Room No.: 	 104
+		-Occupancy: 	 4
+		-Base Charges: 	 7000
+		-No. of People:  4
+		-Drinks Information: 
+			-Drinks Consumed: 15
+			-Drinks Remaining: 4
+		-Drinks Information: 
+			-Drinks Consumed: 32
+			-Drinks Remaining: 5
+!!~CHECK-IN~!!
+	~Room Information: 
+		-Room No.: 	 106
+		-Occupancy: 	 4
+		-Base Charges: 	 7000
+		-No. of People:  4
+		-Drinks Information: 
+			-Drinks Consumed: 18
+			-Drinks Remaining: 4
+		-Drinks Information: 
+			-Drinks Consumed: 33
+			-Drinks Remaining: 4
+		-Drinks Information: 
+			-Drinks Consumed: 16
+			-Drinks Remaining: 5
+		-Drinks Information: 
+			-Drinks Consumed: 10
+			-Drinks Remaining: 4
+		-Drinks Information: 
+			-Drinks Consumed: 11
+			-Drinks Remaining: 3
+!!~CHECK-OUT~!!
+	~Room Information: 
+		-Room No.: 	 202
+		-Occupancy: 	 2
+		-Stay Duration: 2
+		-Base Charges: 	 4000
+		-Total Charges: 8000
+		-No. of People:  2
+!!~CHECK-IN~!!
+	~Room Information: 
+		-Room No.: 	 202
+		-Occupancy: 	 2
+		-Base Charges: 	 4000
+		-No. of People:  2
+!!~CHECK-IN~!!
+	~Room Information: 
+		-Room No.: 	 102
+		-Occupancy: 	 3
+		-Base Charges: 	 5500
+		-No. of People:  3
+		-Drinks Information: 
+			-Drinks Consumed: 23
+			-Drinks Remaining: 3
+		-Drinks Information: 
+			-Drinks Consumed: 20
+			-Drinks Remaining: 3
+		-Drinks Information: 
+			-Drinks Consumed: 36
+			-Drinks Remaining: 3
+		-Drinks Information: 
+			-Drinks Consumed: 19
+			-Drinks Remaining: 3
+		-Drinks Information: 
+			-Drinks Consumed: 12
+			-Drinks Remaining: 3
+!!~CHECK-IN~!!
+	~Room Information: 
+		-Room No.: 	 109
+		-Occupancy: 	 4
+		-Base Charges: 	 7000
+		-No. of People:  4
+		-Drinks Information: 
+			-Drinks Consumed: 25
+			-Drinks Remaining: 2
+			-Drinks Replenished...
+		-Drinks Information: 
+			-Drinks Consumed: 21
+			-Drinks Remaining: 2
+			-Drinks Replenished...
+		-Drinks Information: 
+			-Drinks Consumed: 37
+			-Drinks Remaining: 3
+		-Drinks Information: 
+			-Drinks Consumed: 22
+			-Drinks Remaining: 2
+			-Drinks Replenished...
+		-Drinks Information: 
+			-Drinks Consumed: 14
+			-Drinks Remaining: 2
+			-Drinks Replenished...
+		-Drinks Information: 
+			-Drinks Consumed: 1
+			-Drinks Remaining: 9
+		-Drinks Information: 
+			-Drinks Consumed: 12
+			-Drinks Remaining: 2
+			-Drinks Replenished...
+		-Drinks Information: 
+			-Drinks Consumed: 17
+			-Drinks Remaining: 6
+		-Drinks Information: 
+			-Drinks Consumed: 5
+			-Drinks Remaining: 5
+!!~CHECK-OUT~!!
+	~Room Information: 
+		-Room No.: 	 207
+		-Occupancy: 	 2
+		-Stay Duration: 2
+		-Base Charges: 	 4000
+		-Total Charges: 8000
+		-No. of People:  2
+		-Drinks Information: 
+			-Drinks Consumed: 7
+			-Drinks Remaining: 6

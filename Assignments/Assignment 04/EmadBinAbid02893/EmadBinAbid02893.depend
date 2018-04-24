@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1509189521 source:e:\universties\habib university\semesters\fall 2017\object oriented programming\assignments\assignment 04\emadbinabid02893\main.cpp
+	<iostream>
+	"MyList.h"
+
+1509189876 source:e:\universties\habib university\semesters\fall 2017\object oriented programming\assignments\assignment 04\emadbinabid02893\mylist.cpp
+	"MyList.h"
+
+1508298731 e:\universties\habib university\semesters\fall 2017\object oriented programming\assignments\assignment 04\emadbinabid02893\mylist.h
+	<iostream>
+	"Node.h"
+
+1508077198 e:\universties\habib university\semesters\fall 2017\object oriented programming\assignments\assignment 04\emadbinabid02893\node.h
+
